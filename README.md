@@ -40,11 +40,11 @@
 #### Cannot talk properly (help) <img hight="20" width="40" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/azusawa-kohane-kohane.gif">
 
 
-#### I like to draw and sometimes game
+I like to draw and sometimes game
 
-#### คนไทย
+คนไทย
 
-#### 日本語勉強中です、ちょっと話せます
+日本語勉強中です、ちょっと話せます
 
 
 
