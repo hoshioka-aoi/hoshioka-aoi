@@ -1,4 +1,4 @@
-# About me
+# Hi
 
 Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 
@@ -6,6 +6,12 @@ IDk what to put here
 
 coding
 
+## Skills
+
+- Can code basic C++, Java
+- Likes frontend
+- Gamedev is cool tho I haven't touched it yet
+- hate data structures
 <!--
 **hoshioka-aoi/hoshioka-aoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
