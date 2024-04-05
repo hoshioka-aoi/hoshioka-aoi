@@ -7,9 +7,7 @@
 
 #### Real name: [REDACTED]
 
-IDk what to put here
-
-coding
+##### i code
 
 ## Skills
 
