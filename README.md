@@ -1,6 +1,6 @@
 # Hi
 
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/bocchi-the-rock-anime.gif">
+<img hight="150" width="350" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/bocchi-the-rock-anime.gif">
 
 Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 
