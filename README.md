@@ -22,7 +22,7 @@
 - Gamedev is cool tho I haven't touched it yet
 - hate data structures
 
-## Stats <img hight="20" width="40" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/airi-sekai-airi-momoi.gif">
+## Stats <img hight="20" width="40" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/maru-mafuyu-de-maru.gif">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoshioka-aoi&show_icons=true&theme=radical)
 
