@@ -24,7 +24,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoshioka-aoi&show_icons=true&theme=radical)
 
-#### (Not that impressive but please give me a chance)
+(Not that impressive but please give me a chance)
 
 ## Stimulation so you don't get bored
 
