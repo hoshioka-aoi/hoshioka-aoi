@@ -1,8 +1,12 @@
 # Hi
 
-<img hight="150" width="350" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/bocchi-the-rock-anime.gif">
+<img hight="200" width="350" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/bocchi-the-rock-anime.gif">
 
 Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+Hoshioka Aoi （星岡　葵）
+
+Real name: [REDACTED]
 
 IDk what to put here
 
@@ -30,6 +34,10 @@ coding
 A little bit silly
 
 Cannot talk properly (help)
+
+คนไทย
+
+日本語勉強中です、ちょっと話せます
 
 
 
