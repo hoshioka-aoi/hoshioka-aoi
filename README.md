@@ -37,7 +37,7 @@
 
 ### 1st year student, trying my best
 
-#### A little bit silly
+A little bit silly
 
  Cannot talk properly (help) <img hight="20" width="40" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/azusawa-kohane-kohane.gif">
 
