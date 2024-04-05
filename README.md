@@ -7,8 +7,6 @@
 
 #### Real name: [REDACTED]
 
-#### 1st year student
-
 ##### i code
 
 ## Skills    <img hight="20" width="40" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/airi-sekai-airi-momoi.gif">
@@ -34,6 +32,8 @@
 
 
 <img hight="100" width="350" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/nuh uh.gif">
+
+1st year student, trying my best
 
 A little bit silly
 
