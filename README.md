@@ -27,7 +27,7 @@ coding
 
 # Personal Info
 
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/nuh uh.gif">
+<img hight="100" width="350" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/nuh uh.gif">
 
 A little bit silly
 
