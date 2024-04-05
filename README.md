@@ -13,7 +13,7 @@
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/good-at-prog-meth.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
 
-- Can code basic C++, Java
+- Can code basic C++, Java, React.js, HTML, Tailwind
 - Likes frontend
 - Gamedev is cool tho I haven't touched it yet
 - hate data structures
