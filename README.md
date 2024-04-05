@@ -41,12 +41,6 @@ I like to draw and sometimes game
 
 日本語勉強中です、ちょっと話せます
 
-I like to draw and sometimes game
-
-คนไทย
-
-日本語勉強中です、ちょっと話せます
-
 
 
 <!--
