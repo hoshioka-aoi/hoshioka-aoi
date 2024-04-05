@@ -7,11 +7,11 @@
 
 #### Real name: [REDACTED]
 
-#### 1st year Student
+#### 1st year student
 
 ##### i code
 
-## Skills <img hight="20" width="40" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/airi-sekai-airi-momoi.gif">
+## Skills    <img hight="20" width="40" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/airi-sekai-airi-momoi.gif">
 
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/cedt-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/good-at-prog-meth.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
@@ -22,7 +22,7 @@
 - Gamedev is cool tho I haven't touched it yet
 - hate data structures
 
-## Stats <img hight="20" width="40" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/maru-mafuyu-de-maru.gif">
+## Stats     <img hight="20" width="40" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/maru-mafuyu-de-maru.gif">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoshioka-aoi&show_icons=true&theme=radical)
 
