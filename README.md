@@ -24,6 +24,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoshioka-aoi&show_icons=true&theme=radical)
 
+#### (Not that impressive but please give me a chance)
+
 ## Stimulation so you don't get bored
 
 <img hight="200" width="350" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/brainrot.gif">
