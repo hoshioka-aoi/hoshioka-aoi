@@ -1,18 +1,19 @@
-# Hi
+# Hiiiiiiiiiiiiiiiii
 
-<img hight="150" width="350" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/bocchi-the-rock-anime.gif">
+<img hight="200" width="350" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/bocchi-the-rock-anime.gif">
 
-Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 
-IDk what to put here
+### Hoshioka Aoi （星岡　葵）
 
-coding
+#### Real name: [REDACTED]
+
+#### 1st year Student
+
+##### i code
 
 ## Skills
 
-[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/nisit-chula.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/cedt-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
-[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/good-at-prog-meth.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
 
@@ -31,7 +32,14 @@ coding
 
 A little bit silly
 
-Cannot talk properly (help)
+Cannot talk properly (help) <img hight="20" width="40" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/azusawa-kohane-kohane.gif">
+
+
+I like to draw and sometimes game
+
+คนไทย
+
+日本語勉強中です、ちょっと話せます
 
 
 
