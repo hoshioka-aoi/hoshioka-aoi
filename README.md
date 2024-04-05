@@ -25,6 +25,16 @@ coding
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoshioka-aoi&show_icons=true&theme=radical)
 
+# Personal Info
+
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/nuh uh.gif">
+
+A little bit silly
+
+Cannot talk properly (help)
+
+
+
 <!--
 **hoshioka-aoi/hoshioka-aoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
