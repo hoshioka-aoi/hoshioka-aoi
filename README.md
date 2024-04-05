@@ -7,6 +7,8 @@
 
 #### Real name: [REDACTED]
 
+#### 1st year Student
+
 ##### i code
 
 ## Skills
@@ -31,6 +33,8 @@
 A little bit silly
 
 Cannot talk properly (help)
+
+I like to draw and sometimes game
 
 คนไทย
 
