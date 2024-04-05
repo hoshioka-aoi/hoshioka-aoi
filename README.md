@@ -22,15 +22,19 @@
 - Gamedev is cool tho I haven't touched it yet
 - hate data structures
 
-## Stats
+## Stats <img hight="20" width="40" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/airi-sekai-airi-momoi.gif">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoshioka-aoi&show_icons=true&theme=radical)
 
-# Personal Info
+## Stimulation so you don't get bored
+
+<img hight="200" width="350" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/brainrot.gif">
+
+## Personal Info
 
 <img hight="100" width="350" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/nuh uh.gif">
 
-A little bit silly
+A little bit silly <img hight="20" width="40" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/bocchi-the-rock-anime-sequel.gif">
 
 Cannot talk properly (help) <img hight="20" width="40" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/azusawa-kohane-kohane.gif">
 
