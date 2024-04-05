@@ -5,8 +5,6 @@
 
 ### Hoshioka Aoi （星岡　葵）
 
-#### Real name: [REDACTED]
-
 ##### i code
 
 ## Skills    <img hight="20" width="40" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/airi-sekai-airi-momoi.gif">
