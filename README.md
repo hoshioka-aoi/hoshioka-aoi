@@ -11,6 +11,7 @@ coding
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/nisit-chula.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/cedt-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
+[![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/good-at-prog-meth.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
 
 - Can code basic C++, Java
