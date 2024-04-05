@@ -30,7 +30,8 @@
 
 <img hight="200" width="350" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/brainrot.gif">
 
-## Personal Info
+## Personal Info <img hight="20" width="40" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/kanade-yoisaki-pjsekai.gif">
+
 
 <img hight="100" width="350" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/nuh uh.gif">
 
