@@ -3,7 +3,7 @@
 <img hight="200" width="350" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/bocchi-the-rock-anime.gif">
 
 
-### Hoshioka Aoi （星岡　葵）
+## Hoshioka Aoi （星岡　葵）
 
 #### Real name: [REDACTED]
 
