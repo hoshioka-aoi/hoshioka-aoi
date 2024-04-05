@@ -11,7 +11,7 @@
 
 ##### i code
 
-## Skills
+## Skills <img hight="20" width="40" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/airi-sekai-airi-momoi.gif">
 
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/cedt-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/good-at-prog-meth.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
