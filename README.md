@@ -35,7 +35,7 @@
 
 <img hight="100" width="350" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/nuh uh.gif">
 
-A little bit silly <img hight="20" width="40" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/bocchi-the-rock-anime-sequel.gif">
+A little bit silly
 
 Cannot talk properly (help) <img hight="20" width="40" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/azusawa-kohane-kohane.gif">
 
