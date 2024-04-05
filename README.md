@@ -1,12 +1,11 @@
-# Hi
+# Hiiiiiiiiiiiiiiiii
 
 <img hight="200" width="350" alt="GIF" align="center" src="https://github.com/hoshioka-aoi/hoshioka-aoi/blob/main/bocchi-the-rock-anime.gif">
 
-Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 
-Hoshioka Aoi （星岡　葵）
+### Hoshioka Aoi （星岡　葵）
 
-Real name: [REDACTED]
+#### Real name: [REDACTED]
 
 IDk what to put here
 
