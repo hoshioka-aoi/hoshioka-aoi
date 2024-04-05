@@ -14,7 +14,7 @@
 
 
 - Can code basic C++, Java, React.js, HTML, Tailwind
-- Likes frontend
+- Likes frontend, UI design
 - Gamedev is cool tho I haven't touched it yet
 - hate data structures
 
